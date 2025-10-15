@@ -1,0 +1,5 @@
+reports:
+  wf-clone-validation-report.html:
+    display: "html"
+  "*.bcf":
+    display: "html"
