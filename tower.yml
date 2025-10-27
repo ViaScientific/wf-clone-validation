@@ -1,0 +1,9 @@
+reports:
+  wf-clone-validation-report.html:
+    display: "html"
+  "variant_files/*.bcf":
+    display: "html"
+  "variant_files/*.vcf":
+    display: "text"
+  variant_calls_summary.html:
+    display: "html"
